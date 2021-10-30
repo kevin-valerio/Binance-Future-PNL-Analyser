@@ -1,2 +1,3 @@
-# Binance-Future-PNL-Analyser
-Binance Future PNL Analyser
+# Binance Future PNL Analyser
+
+![alt text](example.png "Example")
